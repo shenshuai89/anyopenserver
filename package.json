@@ -1,0 +1,23 @@
+{
+  "name": "anyopenserver",
+  "version": "1.0.4",
+  "description": "使用node 搭建一个静态服务器",
+  "bin": {
+    "anyopen": "./bin/anyopen"
+  },
+  "main": "./app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "shenshuai89@qq.com",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "handlebars": "^4.7.6",
+    "mime": "^2.4.6",
+    "open": "^7.2.1",
+    "urlencode": "^1.1.0",
+    "yargs": "^16.0.3"
+  }
+}
