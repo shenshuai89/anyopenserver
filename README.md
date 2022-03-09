@@ -15,3 +15,6 @@ anyopen -d /usr : 设置根目录为 /usr
 ```
 
 > 设置路径-d 时，要是字符串类型
+
+## 仓库地址
+https://github.com/shenshuai89/anyopenserver
